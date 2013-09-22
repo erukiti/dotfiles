@@ -1,0 +1,21 @@
+{
+	"font_face": "Ricty Discord Bold for Powerline",
+    "font_size": 14,
+    "tab_size": 2,
+    "translate_tabs_to_spaces": true,
+    // Disables horizontal scrolling if enabled.
+    // May be set to true, false, or "auto", where it will be disabled for
+    // source code, and otherwise enabled.
+    "word_wrap": true,
+
+    // Set to "none" to turn off drawing white space, "selection" to draw only the
+    // white space within the selection, and "all" to draw all white space
+    "draw_white_space": "selection",
+
+    // Enable auto complete to be triggered automatically when typing.
+    "auto_complete": false,
+
+    "shift_tab_unindent": true
+
+
+}

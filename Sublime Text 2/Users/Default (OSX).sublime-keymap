@@ -1,0 +1,6 @@
+// Settings in here override those in "Default/Preferences.sublime-settings", and
+// are overridden in turn by file type specific settings.
+[
+  { "keys": ["ctrl+t"], "command":"duplicate_line"},
+  { "keys": ["ctrl+super+shift+d"], "command": "noop" }
+]
