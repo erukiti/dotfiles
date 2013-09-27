@@ -10,3 +10,10 @@ protocol = https
 [user]
 	name = erukiti
 	email = erukiti@gmail.com
+[color]
+  ui = auto
+[alias]
+  graph = log --graph --pretty='format:%C(yellow)%h%Creset %s %Cgreen(%an)%Creset %Cred%d%Creset'
+  st = status -uno
+  diff = diff --word-diff
+  br = branch
