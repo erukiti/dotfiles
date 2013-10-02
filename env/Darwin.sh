@@ -1,4 +1,4 @@
-export EDITOR="open /Applications/Sublime\ Text\ 2.app"
+export EDITOR=subl
 export PATH="/Users/erukiti/play:$PATH"
 alias ll='ls -lAo'
 
