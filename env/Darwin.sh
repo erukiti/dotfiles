@@ -1,6 +1,2 @@
-export EDITOR=subl
-export PATH="/Users/erukiti/play:$PATH"
+export EDITOR="code -w"
 alias ll='ls -lAo'
-
-test -s /opt/boxen/env.sh && source /opt/boxen/env.sh
-
